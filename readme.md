@@ -4,10 +4,7 @@
 
 <p align="center">
 <a href="#sobre">Sobre</a>
-<a href="#sobre">RoadMap</a>
 <a href="#sobre">Tecnologias</a>
-<a href="#sobre">Pré Requisitos</a>
-<a href="#sobre">Licença</a>
 <a href="#sobre">Autor</a>
 </p>
 
