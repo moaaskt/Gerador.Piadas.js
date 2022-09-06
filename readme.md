@@ -1,10 +1,13 @@
-#README
+
 
 <h1 align="center"> Gerador de Piadas </h1>
 
 <p align="center">
 <a href="#sobre">Sobre</a>
+<a href="#sobre">RoadMap</a>
 <a href="#sobre">Tecnologias</a>
+<a href="#sobre">Pré Requisitos</a>
+<a href="#sobre">Licença</a>
 <a href="#sobre">Autor</a>
 </p>
 
@@ -15,3 +18,4 @@
 <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Projeto README em construção ... 
 
 </h4>
+>>>>>>> 103c078a38b7a81de1e7d549b38e67f570bc966f
